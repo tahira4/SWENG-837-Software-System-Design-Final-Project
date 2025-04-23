@@ -3,12 +3,10 @@
 ## 🧭 Project Overview
 This project presents a software design solution for improving how students at online universities access academic support services such as tutoring, advising, and mentoring. The solution is grounded in Object-Oriented Analysis and Design (OOAD), domain modeling, and established design patterns to create a unified, maintainable, and scalable system.
 
----
 
 ## 📌 Problem Statement
 Online university students often face difficulty accessing academic help due to scattered support services across multiple platforms. This leads to missed opportunities, confusion, and low engagement. The proposed solution is a **unified academic support platform** that streamlines access to tutoring, mentoring, and advising sessions within a single, consistent system interface.
 
----
 
 ## 🎯 Project Goals
 - Apply **OOAD principles** to model the problem and system effectively.
