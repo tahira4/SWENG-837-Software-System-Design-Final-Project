@@ -1,4 +1,4 @@
-# 🎓 Unified Academic Support Platform for Online Universities
+Unified Academic Support Platform for Online Universities
 
 ## 🧭 Project Overview
 This project presents a software design solution for improving how students at online universities access academic support services such as tutoring, advising, and mentoring. The solution is grounded in Object-Oriented Analysis and Design (OOAD), domain modeling, and established design patterns to create a unified, maintainable, and scalable system.
