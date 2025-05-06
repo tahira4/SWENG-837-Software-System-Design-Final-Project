@@ -57,9 +57,9 @@ AcademicSupportPlatform/
 
 └── Word – Project documentation
 
-├── Problem_Statement.docx
+│ ├── Problem_Statement.docx
 
-└── Design_Explanation.docx
+│ ├── Design_Explanation.docx
 
 
 
