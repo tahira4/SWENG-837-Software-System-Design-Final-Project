@@ -29,21 +29,23 @@ AcademicSupportPlatform/
 
 ├── Images – All UML diagrams and architecture visuals
 
-│ ├── use_case_diagram.png
+│ ├── 1.UML Use Case Diagram.png
 
-│ ├── domain_model.png
+│ ├── 2.UML Domain Model Diagram.png
 
-│ ├── class_diagram.png
+│ ├── 3.UML Class Diagram_visio.png
 
-│ ├── sequence_diagram.png
+│ ├── 4.UML Sequence Diagram.png
 
-│ ├── state_diagram.png
+│ ├── 5.UML State Diagram.png
 
-│ ├── activity_diagram.png
+│ ├── 6.1UML Activity Diagram2.png
 
-│ ├── component_diagram.png
+│ ├── 6.UML Activity Diagram.png
 
-│ └── deployment_diagram.png
+│ ├── 7 UML Component Diagram.png
+
+│ └── 8.UML Deployment Diagram.png
 
 ├── Scripts – Skeleton classes and pseudocode
 
